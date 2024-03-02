@@ -1,2 +1,1 @@
-"# Harmful-Brain-Activity-CNN" 
-"# Harmful-Brain-Activity-CNN" 
+Train machine learning model to detect and classify seizures and other types of harmful brain activity. Model will be trained on electroencephalography (EEG) signals recorded from critically ill hospital patients.
